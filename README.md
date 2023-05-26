@@ -1,20 +1,16 @@
-# FE Interview Bookmarks
-
-### 잘 작성된 인터뷰 글 모음
+# FE Interview Reading List
 
 ## CS(Computer Science)
 
 ### Overall
 
-- [Front-Interview](https://github.com/ssi02014/Front-Interview/blob/master/README.md)
+- [IT 배경지식 돌파하기](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 
 <br />
 
 ### 알고리즘과 자료구조
 
--
-
-<br />
+- <br />
 
 ### WEB Browser
 
@@ -26,7 +22,8 @@
 
 ### 네트워크(Network)
 
--
+- [URL구조](https://www.grabbing.me/URL-018cdd1bb4b541fab6246569244fcf93)
+- [HSTS](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=aepkoreanet&logNo=221575708943)
 
 <br />
 <br />
