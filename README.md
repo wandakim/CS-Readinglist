@@ -5,6 +5,13 @@
 ### Overall
 
 - [IT 배경지식 전반, Index참고](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
+- [Front-Interview](https://github.com/ssi02014/Front-Interview/tree/master)
+- [면접 준비](https://yozm.wishket.com/magazine/detail/2058/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
+  <br />
+
+### CS
+
+-[XOR연산](http://www.tcpschool.com/c/c_refer_bitCalculation#:~:text=XOR%20%EC%97%B0%EC%82%B0%EC%9D%B4%EB%9E%80%20%EB%B0%B0%ED%83%80%EC%A0%81%20%EB%85%BC%EB%A6%AC%ED%95%A9,%EB%A7%8C%EC%9D%84%20%EB%B0%98%EC%A0%84%EC%8B%9C%ED%82%AC%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)
 
 <br />
 
@@ -36,41 +43,24 @@
 
 ## Front-End
 
--
+<br />
+
+### React
+
+- [Context API vs Redux](https://olaf-go.medium.com/context-api-vs-redux-e8a53df99b8)
 
 <br />
 
 ## Back-End
 
--
+### Authentication
+
+- [OWASP](https://owasp.org/)
+- [XSS Attack](https://owasp.org/www-community/attacks/xss/)
 
 <br />
 
 ## HTML
-
--
-
-<br />
-
-## JavaScript
-
-- [Why Generatror?](https://velog.io/@dev_boku/%EB%88%84%EA%B5%AC%EB%82%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%95%A8%EC%88%98%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
-
-<br />
-
-## TypeScript
-
--
-
-<br />
-
-## React
-
--
-
-<br />
-
-## OOP
 
 -
 
@@ -81,6 +71,7 @@
 -
 
 <br />
+
 ## Architecture Pattern
 
 - [MVC](https://junhyunny.github.io/information/design-pattern/mvc-pattern/)
