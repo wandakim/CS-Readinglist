@@ -7,6 +7,7 @@
 - [IT 배경지식 전반, Index참고](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - [Front-Interview](https://github.com/ssi02014/Front-Interview/tree/master)
 - [면접 준비](https://yozm.wishket.com/magazine/detail/2058/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
+- [커밋 컨벤션](https://sujinlee.me/professional-github/)
   <br />
 
 ### CS
@@ -45,15 +46,22 @@
 
 <br />
 
-### React
+### React/ Next.js
 
 - [Context API vs Redux](https://olaf-go.medium.com/context-api-vs-redux-e8a53df99b8)
+- [Redux vs Context API: When to use them](https://dev.to/ruppysuppy/redux-vs-context-api-when-to-use-them-4k3p)
+- [CSR, SSR, SSG, ISR](https://dev.to/mbaljeetsingh/what-is-csr-ssr-ssg-isr-different-rendering-strategies-and-which-framework-does-it-better-angular-react-vue-4lkp)
 
 <br />
 
 ## Back-End
 
-### Authentication
+- [WEB 서버와 WAS 란 무엇일까?](https://velog.io/@developerjun0615/WEB-WAS-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+- [Nginx와 Apache](https://ssdragon.tistory.com/60)
+
+<br />
+
+## Authentication
 
 - [OWASP](https://owasp.org/)
 - [XSS Attack](https://owasp.org/www-community/attacks/xss/)
