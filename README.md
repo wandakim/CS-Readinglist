@@ -10,6 +10,10 @@
 - [커밋 컨벤션](https://sujinlee.me/professional-github/)
   <br />
 
+### TS
+
+- [JS to TS](https://joshua1988.github.io/ts/etc/convert-js-to-ts.html#%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94-%EC%A0%88%EC%B0%A8)
+
 ### CS
 
 -[XOR연산](http://www.tcpschool.com/c/c_refer_bitCalculation#:~:text=XOR%20%EC%97%B0%EC%82%B0%EC%9D%B4%EB%9E%80%20%EB%B0%B0%ED%83%80%EC%A0%81%20%EB%85%BC%EB%A6%AC%ED%95%A9,%EB%A7%8C%EC%9D%84%20%EB%B0%98%EC%A0%84%EC%8B%9C%ED%82%AC%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)
