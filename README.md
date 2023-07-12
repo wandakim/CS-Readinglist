@@ -4,6 +4,7 @@
 
 ### Overall
 
+- [웹 어플리케이션 아키텍쳐의 미래: PESPA](https://itchallenger.tistory.com/750)
 - [IT 배경지식 전반, Index참고](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - [Front-Interview](https://github.com/ssi02014/Front-Interview/tree/master)
 - [면접 준비](https://yozm.wishket.com/magazine/detail/2058/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
@@ -52,6 +53,7 @@
 
 ### React/ Next.js
 
+- [use](https://itchallenger.tistory.com/760)
 - [Context API vs Redux](https://olaf-go.medium.com/context-api-vs-redux-e8a53df99b8)
 - [Redux vs Context API: When to use them](https://dev.to/ruppysuppy/redux-vs-context-api-when-to-use-them-4k3p)
 - [CSR, SSR, SSG, ISR](https://dev.to/mbaljeetsingh/what-is-csr-ssr-ssg-isr-different-rendering-strategies-and-which-framework-does-it-better-angular-react-vue-4lkp)
